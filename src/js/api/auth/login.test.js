@@ -12,7 +12,7 @@ describe("login", () => {
     jest.clearAllMocks();
   });
 
-  it("Should fetch and store token if response is OK", async () => {
+  it("Should fetch and store token in localStorage if response is OK", async () => {
     const email = "mock@email.com";
     const password = "mockPassword";
 
@@ -26,9 +26,14 @@ describe("login", () => {
     await login(email, password);
 
     expect(fetch).toHaveBeenCalled();
+    expect(localStorage.setItem).toHaveBeenCalledTimes(2);
     expect(localStorage.setItem).toHaveBeenCalledWith(
       "token",
       JSON.stringify("mockToken"),
+    );
+    expect(localStorage.setItem).toHaveBeenCalledWith(
+      "profile",
+      JSON.stringify({}),
     );
   });
 

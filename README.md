@@ -45,8 +45,7 @@
 
 ## About The Project
 
-[![Automated E2E Testing](https://github.com/RiverMichael/workflow-CA/actions/workflows/e2e-test.yml/badge.svg)](https://github.com/RiverMichael/workflow-CA/actions/workflows/e2e-test.yml) [![Automated Unit Testing](https://github.com/RiverMichael/workflow-CA/actions/workflows/unit-test.yml/badge.svg)](https://github.com/RiverMichael/workflow-CA/actions/workflows/unit-test.yml)
-[![Deploy static content to Pages](https://github.com/RiverMichael/workflow-CA/actions/workflows/pages.yml/badge.svg)](https://github.com/RiverMichael/workflow-CA/actions/workflows/pages.yml) [![Code Review](https://github.com/RiverMichael/workflow-CA/actions/workflows/gpt.yml/badge.svg)](https://github.com/RiverMichael/workflow-CA/actions/workflows/gpt.yml)
+[![Automated E2E Testing](https://github.com/RiverMichael/workflow-CA/actions/workflows/e2e-test.yml/badge.svg)](https://github.com/RiverMichael/workflow-CA/actions/workflows/e2e-test.yml)&nbsp;&nbsp;&nbsp;[![Automated Unit Testing](https://github.com/RiverMichael/workflow-CA/actions/workflows/unit-test.yml/badge.svg)](https://github.com/RiverMichael/workflow-CA/actions/workflows/unit-test.yml)&nbsp;&nbsp;&nbsp;[![Deploy static content to Pages](https://github.com/RiverMichael/workflow-CA/actions/workflows/pages.yml/badge.svg)](https://github.com/RiverMichael/workflow-CA/actions/workflows/pages.yml)&nbsp;&nbsp;&nbsp;[![Code Review](https://github.com/RiverMichael/workflow-CA/actions/workflows/gpt.yml/badge.svg)](https://github.com/RiverMichael/workflow-CA/actions/workflows/gpt.yml)
 
 ### Description
 
@@ -67,28 +66,11 @@ The implementation was done to an existing repository containing the Social Medi
 ### Built With
 
 <div style="display: inline-block; text-align: center; ">
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/html.svg" alt="html" height="30" width="40">
-<br>HTML</a>
-</div>
-&nbsp;&nbsp;&nbsp;
-<div style="display: inline-block; text-align: center;">
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/css.svg" alt="css" height="30" width="40">
-<br>CSS</a>
-</div>
-&nbsp;&nbsp;&nbsp;
-<div style="display: inline-block; text-align: center; ">
-<a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/bootstrap.svg" alt="bootstrap" height="30" width="40">
-<br>Bootstrap</a>
-</div>
-&nbsp;&nbsp;&nbsp;
-<div style="display: inline-block; text-align: center; ">
-<a href="https://https://sass-lang.com/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/sass.svg" alt="bootstrap" height="30" width="40">
-<br>Sass</a>
-</div>
-&nbsp;&nbsp;&nbsp;
-<div style="display: inline-block; text-align: center; ">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/javascript.svg" alt="javascript" height="30" width="40">
-<br>JavaScript</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/html.svg" alt="html" height="30" width="40"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/css.svg" alt="css" height="30" width="40"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/bootstrap.svg" alt="bootstrap" height="30" width="40"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://https://sass-lang.com/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/sass.svg" alt="bootstrap" height="30" width="40"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/javascript.svg" alt="javascript" height="30" width="40"></a>
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
